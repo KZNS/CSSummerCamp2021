@@ -164,9 +164,9 @@
 
 【报名截止: 2021.6.25】[北京邮电大学2021年全国优秀大学生暑期夏令营](https://mp.weixin.qq.com/s?__biz=MzA5MTY3MzAxOQ==&mid=2650677395&idx=1&sn=deeded9f0f69ff45fa39a7e9c6c6fd4d&chksm=88725847bf05d15161a1696144f377a1036cf14dc833f46834baa3d9441a6998ca215c0845ec&mpshare=1&scene=23&srcid=0610ALULMz4e3hGZ1PX9pVp6&sharer_sharetime=1623293763624&sharer_shareid=71caa6e1b89a22e91fd84f8f9f6d7fbb#rd)
 
-【报名截止：2021.6.25】[北京邮电大学计算机学院（国家示范性软件学院）2021年优秀大学生夏令营活动通知](https://scs.bupt.edu.cn/info/1020/2487.htm)
+【报名截止: 2021.6.25】[北京邮电大学计算机学院（国家示范性软件学院）2021年优秀大学生夏令营活动通知](https://scs.bupt.edu.cn/info/1020/2487.htm)
 
-【报名截止：2021.6.25】[北京邮电大学网络空间安全学院2021年全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1055/4171.htm)
+【报名截止: 2021.6.25】[北京邮电大学网络空间安全学院2021年全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1055/4171.htm)
 
 
 
@@ -276,7 +276,7 @@
 
 # 湖南大学
 
-【报名截止：2021.6.23】[湖南大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11077.htm)
+【报名截止: 2021.6.23】[湖南大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11077.htm)
 
 
 
@@ -304,13 +304,13 @@
 
 # 北京工业大学
 
-~~【报名截止：2021.6.15】[北京工业大学信息学部“乘势而上 不负韶华” 2021年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/YH-3Zq1rgfSNg8neYbXt4Q)~~
+~~【报名截止: 2021.6.15】[北京工业大学信息学部“乘势而上 不负韶华” 2021年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/YH-3Zq1rgfSNg8neYbXt4Q)~~
 
 
 
 # 北京交通大学
 
-【报名截止：2021.6.22】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)
+【报名截止: 2021.6.22】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)
 
 
 
@@ -352,7 +352,7 @@
 
 # 南方科技大学
 
-【报名截止：2021.6.20】[南方科技大学计算机科学与工程系2021年优秀大学生夏令营报名通知](http://cse.sustech.edu.cn/cn/news/view/id/847)
+【报名截止: 2021.6.20】[南方科技大学计算机科学与工程系2021年优秀大学生夏令营报名通知](http://cse.sustech.edu.cn/cn/news/view/id/847)
 
 
 
